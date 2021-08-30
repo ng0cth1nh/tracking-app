@@ -1,2 +1,2 @@
 # Tracking Application
-A simple tracking location mobile application.
+A simple location tracking mobile application.
